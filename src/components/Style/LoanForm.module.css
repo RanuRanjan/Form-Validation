@@ -1,0 +1,101 @@
+sup{
+    color: red;
+}
+h1{
+    margin-bottom: 2%;
+}
+hr{
+    margin-bottom: 4%;
+}
+
+p{
+    border-bottom: 1px solid #CAD5E2;
+    width: 80%;
+    margin-bottom: 20px;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+
+.mainLabel{
+    font-size: 1em;
+    display: block;
+    margin-top: 1.5%;
+    margin-bottom: 0.8%;
+
+}
+.title{
+    width: 35%;
+
+}
+input{
+    padding: 6px 10px;
+    border: 1px solid  #CAD5E2;
+    border-radius: 3px;
+    margin-top: 1%;
+}
+select{
+    padding: 6px 10px;
+    border: 1px solid  #CAD5E2;
+    border-radius: 3px;
+}
+.birth{
+    width: 25%;
+    margin-right: 3%;
+}
+.customizeLabel{
+    color: #758283;
+    font-size: 1em;
+    
+}
+.fname{
+    margin-right: 30%;
+}
+.ifname{
+    width: 37%;
+    margin-right: 2%;
+}
+.date{
+    margin-right: 23%;
+}
+.radio{
+    margin-left: 1%;
+    /* margin-bottom: 1%; */
+}
+.address{
+    width: 75%;
+}
+.city{
+    width: 37%;
+    margin-right: 1%;
+}
+.citylabel{
+    margin-right: 35%;
+}
+.dislabel{
+    width: 35%;
+}
+.btn{
+    
+ 
+    margin: 1.5% auto;
+    text-align: center;
+    padding: 8px 13px;
+    font-size: 1em;
+    border: none;
+    background-color:#00D84A ;
+    color: #ffff;
+    border-radius: 5px;
+    font-weight: 700;
+    /* place-items: center; */
+
+}
+.center{
+    margin: 2% 35%;
+}
+
+
+.fills{
+        margin-left: 90%;
+}
+

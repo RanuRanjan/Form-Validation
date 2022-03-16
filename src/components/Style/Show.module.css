@@ -1,0 +1,46 @@
+th,td{
+    padding: 0.5% 20px;
+    border: 1px solid #dddddd;
+    text-align: left;
+
+    
+}
+table{
+    width: 75%;
+    margin: 10px auto;
+}
+
+th{
+
+    
+    background-color: #d7eaff;
+}
+td{
+    background-color: #CAD5E2;
+
+}
+
+
+.btn1{
+    
+ 
+    margin: 1% auto;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 20px;
+    border: none;
+    background-color:#00D84A ;
+    color: #ffff;
+    border-radius: 5px;
+    font-weight: 700;
+    
+
+}
+.main_show{
+    margin-left: 5%;
+
+}
+h1{
+    text-align: center;
+    margin-top: 2%;
+}

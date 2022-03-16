@@ -1,0 +1,42 @@
+.usermain{
+    display: flex;
+    max-width: 65%;
+    margin: 10px auto;
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 5px;       
+    background-color: #d7eaff;
+}
+.usermain>div:nth-child(1){
+ width: 40%;
+
+}
+.usermain>div:nth-child(2){
+
+ width: 60%;
+ 
+}
+.fields{
+ font-size: 19px;
+ font-weight: 600;
+}
+h2{
+ text-align: center;
+}
+.Data{
+ font-size: 19px;
+}
+.btn1{
+    
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 20px;
+    border: none;
+    background-color:#00D84A ;
+    color: #ffff;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-top: 2%;
+    margin-left: 80%;
+
+}

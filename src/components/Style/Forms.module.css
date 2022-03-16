@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #242B2E;
+    /* font-size: 10px; */
+}
+.main{
+    width: 60%;
+    margin: 2% auto;
+    border: 1px solid #758283 ;
+    padding: 2%;
+    background-color:#d7eaff ;
+}
+
+.viewBtn{
+       margin-top: 2%;
+       padding: 0.8% 2%;
+       margin-left: 80%;
+       color: #ffff;
+       background-color: #00D84A;
+       font-size: 1em;
+       font-weight: 700;
+       border: none;
+       border-radius: 5px;
+
+ }
